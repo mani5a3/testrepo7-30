@@ -7,4 +7,9 @@ this is aws
 this is maven
 this is ravi
 this is mani
+<<<<<<< Updated upstream
 this is an example for stashadding a line2
+=======
+this is an example for stashadding a line 
+adding a line
+>>>>>>> Stashed changes
