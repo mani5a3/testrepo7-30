@@ -8,7 +8,12 @@ this is maven
 this is ravi
 this is mani
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 this is an example for stashadding a line2
+=======
+this is an example for stashadding a line 
+adding a line
+>>>>>>> Stashed changes
 =======
 this is an example for stashadding a line 
 adding a line
